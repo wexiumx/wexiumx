@@ -2,17 +2,17 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who lives in the terminal and loves crafting beautiful, efficient systems. Currently on a journey to master fullstack development while keeping my eyes on the prize: becoming a **DevOps Engineer** or **Software Engineer**.
+I'm a passionate developer who lives in the terminal and loves crafting beautiful, efficient systems.
+Currently on a journey to master fullstack development while keeping my eyes on the prize: becoming a **DevOps Engineer** or **Software Engineer**.
 
 ## 💻 My Setup
 
-- **OS:** Arch Linux (btw 😉) running Hyprland
+- **OS:** Arch Linux running Hyprland
 - **Editor:** NeoVim — because why use anything else?
-- **Philosophy:** Customize everything, optimize everything
 
 ## 🛠️ Tech Stack
 
-**Languages I speak fluently:**
+**Programming languages i know:**
 - 🐍 Python
 - 💛 JavaScript
 - ⚡ C++
@@ -38,11 +38,3 @@ I'm a passionate developer who lives in the terminal and loves crafting beautifu
 - Making drones do cool stuff
 - Linux customization and tiling window managers
 - DevOps practices and infrastructure
-
-## 📫 Let's Connect!
-
-Always excited to collaborate on interesting projects or chat about tech, Linux, or drones!
-
----
-
-*"The best code is no code at all, but the second best is well-written code in NeoVim."*

@@ -12,26 +12,22 @@ Developer focused on building efficient systems and exploring fullstack developm
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages that I'm currently learning:**
 - 🐍 Python
-- 💛 JavaScript
+- 💛 JavaScript (also HTML & CSS)
 - ⚡ C++
 - 🐚 Bash
-- 🎨 HTML & CSS
 
-**Currently Learning:**
-- 🌐 Fullstack Development
+**Planing to learn:**
 - 🦀 Rust
 
 ## 🎯 Current Projects
 
 - Fullstack web development
-- Drone programming and autonomous flight systems
 - Linux customization and workflow optimization
 
 ## 🌱 Interests
 
 - System automation
 - Infrastructure and DevOps tooling
-- Embedded systems and drone technology
 - Tiling window managers

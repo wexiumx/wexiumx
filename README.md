@@ -24,13 +24,10 @@ My main areas right now:
 ## 🛠️ Stack & tools
 
 **Languages**  
-Python, JavaScript, HTML, CSS, C++, Bash
-
-**Systems**  
-Arch Linux (Hyprland)
-
-**Editors**  
-NeoVim, VS Code
+- Python
+- JavaScript & HTML, CSS
+- C++
+- Bash
 
 **Planning to learn**  
 Rust
@@ -39,5 +36,5 @@ Rust
 
 ## ⚙️ Setup
 
-- **OS:** Arch Linux on Hyprland
+- **OS:** Arch Linux (Hyprland)
 - **Editor:** VS Code (primary), NeoVim (secondary)

@@ -30,7 +30,9 @@ My main areas right now:
 - Bash
 
 **Planning to learn**  
-Rust
+- Rust
+- TypeScript
+- Zig
 
 ---
 

@@ -1,4 +1,4 @@
-![snake gif](https://github.com/wexiumx/wexiumx/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/wexiumx/wexiumx/blob/output/github-contribution-grid-snake.svg)
 
 
 # 👋 Hey, I'm Lukas

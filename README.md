@@ -1,3 +1,6 @@
+![snake gif](https://github.com/wexiumx/wexiumx/blob/output/github-contribution-grid-snake.gif)
+
+
 # 👋 Hey, I'm Lukas
 
 ## 🚀 About Me

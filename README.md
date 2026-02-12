@@ -1,36 +1,43 @@
 ![snake gif](https://github.com/wexiumx/wexiumx/blob/output/github-contribution-grid-snake.svg)
 
+# wexiumx
 
-# 👋 Hey, I'm Lukas
+> 💻 Software Engineer | 🐍 Python | 📍 Vilnius, Lithuania
 
-## 🚀 About Me
+---
 
-Developer focused on building efficient systems and exploring fullstack development. Working towards a career in **DevOps** or **Software Engineering**.
+I'm focused on building efficient systems and exploring fullstack development. Most of my time goes into learning new technologies, experimenting with different tools, and optimizing my development workflow.
 
-## 💻 Setup
+---
 
-- **OS:** Arch Linux (Hyprland)
-- **Editor:** NeoVim
-- **Secondary Editor:** VS Code
+## 🎯 What I'm working on
 
-## 🛠️ Tech Stack
+Working towards a career in software engineering while building projects that help me understand how systems work.
 
-**Languages that I'm currently learning:**
-- 🐍 Python
-- 💛 JavaScript (also HTML & CSS)
-- ⚡ C++
-- 🐚 Bash
-
-**Planing to learn:**
-- 🦀 Rust
-
-## 🎯 Current Projects
-
+My main areas right now:
 - Fullstack web development
-- Linux customization and workflow optimization
-
-## 🌱 Interests
-
+- Linux workflow optimization
 - System automation
-- Infrastructure and DevOps tooling
-- Tiling window managers
+
+---
+
+## 🛠️ Stack & tools
+
+**Languages**  
+Python, JavaScript, HTML, CSS, C++, Bash
+
+**Systems**  
+Arch Linux (Hyprland)
+
+**Editors**  
+NeoVim, VS Code
+
+**Planning to learn**  
+Rust
+
+---
+
+## ⚙️ Setup
+
+- **OS:** Arch Linux on Hyprland
+- **Editor:** VS Code (primary), NeoVim (secondary)

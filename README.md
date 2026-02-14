@@ -1,7 +1,6 @@
 ![snake gif](https://github.com/wexiumx/wexiumx/blob/output/github-contribution-grid-snake.svg)
 
 # wexiumx
-
 > 💻 Software Engineer | 🐍 Python | 📍 Vilnius, Lithuania
 
 ---
@@ -14,7 +13,7 @@ I'm focused on building efficient systems and exploring fullstack development. M
 
 Working towards a career in software engineering while building projects that help me understand how systems work.
 
-My main areas right now:
+**Current focus:**
 - Fullstack web development
 - Linux workflow optimization
 - System automation
@@ -25,14 +24,12 @@ My main areas right now:
 
 **Languages**  
 - Python
-- JavaScript & HTML, CSS
+- JavaScript, HTML & CSS
 - C++
 - Bash
 
-**Planning to learn**  
-- Rust
-- TypeScript
-- Zig
+**Learning roadmap**  
+Rust → TypeScript → Lua → Zig
 
 ---
 

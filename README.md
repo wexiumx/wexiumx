@@ -1,7 +1,7 @@
 ![snake gif](https://github.com/wexiumx/wexiumx/blob/output/github-contribution-grid-snake.svg)
 
 # wexiumx
-> 💻 Software Engineer | 🐍 Python | 📍 Vilnius, Lithuania
+> ⚙️ DevOps Engineer | 🐍 Python | 📍 Vilnius, Lithuania
 
 ---
 

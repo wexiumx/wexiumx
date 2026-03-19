@@ -29,7 +29,7 @@ Working towards a career in software engineering while building projects that he
 - Bash
 
 **Learning roadmap**  
-Rust → TypeScript → Lua → Zig
+Rust *(currently learning)* → TypeScript → Lua → Zig
 
 ---
 

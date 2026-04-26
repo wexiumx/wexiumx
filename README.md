@@ -26,14 +26,13 @@ Working towards a career in software engineering while building projects that he
 - Python
 - JavaScript, HTML & CSS
 - C++
-- Bash
 
 **Learning roadmap**  
-Rust *(currently learning)* → Lua → Go
+Bash *(relearning)* → Rust → Lua → Go
 
 ---
 
 ## ⚙️ Setup
 
 - **OS:** Arch Linux (Hyprland)
-- **Editor:** VS Code (primary), NeoVim (secondary)
+- **Editor:** Zed (primary), NeoVim (secondary)

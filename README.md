@@ -29,7 +29,7 @@ Working towards a career in software engineering while building projects that he
 - C++
 
 **Learning roadmap**  
- C -> C++ *relearning* -> Go (or Rust)
+ C++ *relearning* -> Go (or Rust)
 
 ---
 

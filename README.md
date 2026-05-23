@@ -24,11 +24,12 @@ Working towards a career in software engineering while building projects that he
 
 **Languages**  
 - Python
+- Bash
 - JavaScript, HTML & CSS
 - C++
 
 **Learning roadmap**  
-Bash *(relearning)* → Rust → Lua → Go
+ C -> C++ *relearning* -> Go (or Rust)
 
 ---
 

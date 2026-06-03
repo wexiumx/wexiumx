@@ -31,6 +31,11 @@ Working towards a career in software engineering while building projects that he
 **Learning roadmap**  
  C++ *relearning* -> Go (or Rust)
 
+ **Tools**
+- Git
+- Jira
+- Figma
+
 ---
 
 ## ⚙️ Setup

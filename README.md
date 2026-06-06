@@ -30,7 +30,7 @@ Working towards a career in software engineering while building projects that he
 - mySQL
 
 **Learning roadmap**  
- C++ *relearning* -> Go (or Rust)
+Go -> Rust
 
  **Tools**
 - Git

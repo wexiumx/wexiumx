@@ -9,7 +9,7 @@ I'm focused on building efficient systems and exploring fullstack development. M
 
 ---
 
-## 🎯 What I'm working on
+## What I'm working on
 
 Working towards a career in software engineering while building projects that help me understand how systems work.
 

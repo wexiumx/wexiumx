@@ -20,9 +20,8 @@ Working towards a career in software engineering while building projects that he
 
 ---
 
-## 🛠️ Stack & tools
+## Languages
 
-**Languages**  
 - Python
 - Bash
 - JavaScript, HTML & CSS
@@ -31,15 +30,3 @@ Working towards a career in software engineering while building projects that he
 
 **Learning roadmap**  
 Go -> Lua -> Rust
-
- **Tools**
-- Git
-- Jira
-- Figma
-
----
-
-## ⚙️ Setup
-
-- **OS:** Arch Linux (Hyprland)
-- **Editor:** Zed (primary), NeoVim (secondary)

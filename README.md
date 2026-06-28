@@ -20,13 +20,12 @@ Working towards a career in software engineering while building projects that he
 
 ---
 
-## Languages
+## Languages that i have experience with
 
 - Python
 - Bash
 - JavaScript, HTML & CSS
-- C++
-- mySQL
+- C++ (basics)
 
 **Learning roadmap**  
 Go -> Lua -> Rust

@@ -26,7 +26,6 @@ Working towards a career in software engineering while building projects that he
 - Bash
 - JavaScript, HTML & CSS
 - C++ (basics)
-- Go
 
 **Learning right now**  
-Rust
+Go 🡒 Rust

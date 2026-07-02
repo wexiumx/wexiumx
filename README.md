@@ -28,4 +28,4 @@ Working towards a career in software engineering while building projects that he
 - C++ (basics)
 
 **Learning roadmap**  
-Go 🡒 Rust
+Go 🡒 C 🡒 Rust

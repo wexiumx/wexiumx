@@ -25,8 +25,8 @@ Working towards a career in software engineering while building projects that he
 - Python
 - Bash
 - JavaScript, HTML & CSS
-- C++ (basics)
+- C & C++ (basics)
 - Go
 
 **Learning roadmap**  
-C 🡒 Zig 🡒 Rust
+Zig 🡒 Rust

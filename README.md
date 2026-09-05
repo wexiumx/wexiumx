@@ -20,12 +20,20 @@ Working towards a career in software engineering while building projects that he
 
 ---
 
-## Languages that i have experience with
+## Programming languages that i have experience with
 
 - Python
 - Bash
 - JavaScript, HTML & CSS
 - C & C++ (basics)
+- Rust (basics)
+- Go (basics)
+- Zig (basics)
 
-**Learning roadmap**  
-Rust
+## Tools that i have experience with
+
+- Git
+- Jira
+- Figma
+- MySQL
+- Docker

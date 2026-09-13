@@ -27,7 +27,6 @@ Working towards a career in software engineering while building projects that he
 - JavaScript, HTML & CSS
 - C & C++ (basics)
 - Rust (basics)
-- Go (basics)
 - Zig (basics)
 
 ## Tools that i have experience with

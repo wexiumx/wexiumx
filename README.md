@@ -6,7 +6,7 @@
 
 ---
 
-Currently learning fullstack development — HTML, CSS, JavaScript, React, and Python. After that, I'm heading to university to go deeper into software engineering. Long-term I'm drawn toward low-level and embedded systems
+Currently learning fullstack development — HTML, CSS, JavaScript, React, and Python. After that, I'm heading to university to go deeper into software engineering. Long-term I'm drawn toward low-level and embedded systems, but I could just as easily end up in DevOps or cybersecurity
 
 ---
 
@@ -32,7 +32,7 @@ Currently learning fullstack development — HTML, CSS, JavaScript, React, and P
 
 ### Tools
 
-- Git
+- Git / Github
 - Jira
 - Figma
 - MySQL
@@ -50,8 +50,9 @@ Currently learning fullstack development — HTML, CSS, JavaScript, React, and P
 
 ---
 
-## 🔗 Connect
+## Connect
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-bludnickas)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukas.bludnickas@proton.me)
  

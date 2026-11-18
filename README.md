@@ -52,7 +52,7 @@ Currently learning fullstack development — HTML, CSS, JavaScript, React, and P
 
 ## Sertificates
 
-[![NKSC CYBER Marathon](https://img.shields.io/badge/Vilnius%20Coding%20School-IT%20System%20Security-0A66C2?style=for-the-badge)](./certificates/NKSC-CYBER-marathon-III-vieta.jpg)
+[![NKSC CYBER Marathon]()](./certificates/NKSC-CYBER-marathon-III-vieta.jpg)
 
 ---
 

@@ -47,6 +47,7 @@ Currently learning fullstack development — HTML, CSS, JavaScript, React, and P
 - Fedora
 - Arch Linux
 - NixOS
+- Gentoo
 
 ---
 
